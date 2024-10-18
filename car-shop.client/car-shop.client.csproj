@@ -7,4 +7,8 @@
         <RootNamespace>client</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="client\src\app\services\" />
+    </ItemGroup>
+
 </Project>

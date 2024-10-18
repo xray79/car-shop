@@ -1,0 +1,7 @@
+<p>home works!</p>
+
+@if (cars) {
+  @for (car of cars; track car.id) {
+    <p>{{car.make}} - {{car.model}} for £{{car.price}}</p>
+  }
+}
