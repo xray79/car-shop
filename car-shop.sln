@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car-shop.domain", "car-shop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car-shop.infra", "car-shop.infra\car-shop.infra.csproj", "{F460A767-FA51-4406-9D76-A78DD531062E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car-shop.client", "car-shop.client\car-shop.client.csproj", "{037A1A3F-33D0-474F-A5D9-018EF222522D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F460A767-FA51-4406-9D76-A78DD531062E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F460A767-FA51-4406-9D76-A78DD531062E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F460A767-FA51-4406-9D76-A78DD531062E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037A1A3F-33D0-474F-A5D9-018EF222522D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037A1A3F-33D0-474F-A5D9-018EF222522D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037A1A3F-33D0-474F-A5D9-018EF222522D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037A1A3F-33D0-474F-A5D9-018EF222522D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
